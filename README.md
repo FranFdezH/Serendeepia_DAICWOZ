@@ -59,7 +59,7 @@ Transcript file: this file provides the written interview of each participant, a
 feature in this file is that it contains the timestamp in ms (start and finish) of each sentence said
 by the interviewer and interviewed, for example:
 
-              165.854 166.324 Ellie yeah3 (yeah)
+                                        165.854 166.324 Ellie yeah3 (yeah)
 
 ## 4. Database processing
 
